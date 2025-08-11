@@ -5,6 +5,7 @@
 ## 📦 Purpose
 
 The **Product Comparison App** helps users compare different products side by side, enabling informed purchasing decisions. Users can view key product features, prices, and details in a clear, interactive format.
+## Codesandbox link
 **Link for frontend code on codesandbox** [CodeSandbox](https://codesandbox.io/p/sandbox/product-comparison-ddz6dp)
 
 ## ✨ Features
