@@ -55,5 +55,10 @@ The **Product Comparison App** helps users compare different products side by si
 
 [![Watch the demo](https://img.youtube.com/vi/XlpdBXHfFUE/0.jpg)](https://youtu.be/XlpdBXHfFUE)
 
+## Screenshots of the website in working
+<img width="700" height="500" alt="Screenshot 2025-08-12 115047" src="https://github.com/user-attachments/assets/39140ec8-1c13-43fd-b574-3db472c353a7" />
+<img width="700" height="500" alt="Screenshot 2025-08-12 115127" src="https://github.com/user-attachments/assets/6da4b135-6dfd-47a6-aa8a-4a9358d20808" />
+
+
 
 NOTE : I havent uploaded the project on any cloud platform/render/vercel etc , still the code runs on my local database,
